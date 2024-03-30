@@ -22,4 +22,13 @@ The "HR Analytics" dashboard, built using Power BI, aims to assist the organizat
 6. There is a correlation between lower pay and higher exits, with 27% of those earning less than $5k leaving compared to 3.8% of those earning more than $15k.
 7. Employees who have been with the company for less than 2 years are more inclined to leave.
 
+![HRA1](https://github.com/ankitpant97/HR-Analytics/assets/152053095/74468a8a-d439-44d8-93a2-f3d29c3ddf2a)
+![HRA2](https://github.com/ankitpant97/HR-Analytics/assets/152053095/5ae5b194-404d-48a4-ad6d-e3bafa8d23e1)
+![HRA3](https://github.com/ankitpant97/HR-Analytics/assets/152053095/66a0b3ad-833f-4ac4-bc01-5049b2f9b32a)
+![HRA4](https://github.com/ankitpant97/HR-Analytics/assets/152053095/893a243b-c2b8-4667-bde0-2d718dca91cf)
+
+
+
+   
+
 
